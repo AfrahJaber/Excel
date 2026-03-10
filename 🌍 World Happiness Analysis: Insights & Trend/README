@@ -1,0 +1,49 @@
+🌍 World Happiness Analysis: Insights & Trends
+📌 Project Overview
+This project provides a comprehensive analysis of the World Happiness Report (2015-2024). The goal is to explore the factors that contribute to global well-being and identify trends over the last decade. Using Python, I performed Exploratory Data Analysis (EDA) to uncover how economic, social, and health factors influence happiness scores across different continents.
+
+🔍 Key Questions Answered
+Economic Impact: Does a higher GDP per capita always lead to a higher happiness score?
+
+Global Trends: How has world happiness evolved over the past 10 years?
+
+Social Support: How significant is the role of social support and healthy life expectancy?
+
+Population Factor: Is there a correlation between country population size and happiness?
+
+🛠️ Tools & Technologies
+Language: Python 🐍
+
+Libraries: * Pandas for data manipulation.
+
+Seaborn & Matplotlib for static visualizations.
+
+Plotly for interactive geo-spatial maps.
+
+Framework: Google Colab / Kaggle Notebook.
+
+📊 Analysis Steps (The Data Analysis Process)
+Ask: Defined the business task and key questions.
+
+Prepare: Collected and structured the data from the World Happiness Report.
+
+Process: Cleaned the data, handled missing values, and merged datasets.
+
+Analyze: Conducted correlation analysis and trend identification.
+
+Share: Created visualizations to tell the story behind the numbers.
+
+Act: Provided final insights and recommendations based on the findings.
+
+🚀 How to use this Dataset
+You can use the provided Python Notebook to:
+
+See how the data was cleaned and prepared.
+
+Interact with the global maps to see happiness scores by country.
+
+Modify the code to include more recent data or different variables.
+
+👩‍💻 Author
+Afrah
+Trainee Data Analyst

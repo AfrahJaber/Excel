@@ -1,0 +1,26 @@
+# Heart Health Insights: Predictive Analysis Dashboard 🫀
+
+## 📌 Project Overview
+This project involves a comprehensive data analysis of a heart disease dataset (918 patients). The goal was to identify clinical patterns and risk factors to provide actionable recommendations for healthcare providers.
+
+## 🛠️ Tools & Technologies
+* **Power BI:** Interactive Dashboard & Data Visualization.
+* **Power Query (M Language):** Data Cleaning, Transformation, and Handling Missing Values.
+* **Kaggle:** Data Sourcing and Documentation.
+
+## 🚀 Data Processing (The Process Phase)
+* **Missing Value Imputation:** Addressed zero-values in the `Cholesterol` column by replacing them with the mean to preserve data integrity.
+* **Data Standardization:** Formatted data types (Age, Heart Rate) for analytical consistency.
+* **Feature Engineering:** Organized data to highlight correlations between chest pain types and heart conditions.
+
+## 📊 Key Insights
+* **Asymptomatic Risk:** Patients with `ASY` chest pain show the highest correlation with heart disease.
+* **ECG Indicators:** A `Flat` ST-Slope is a significant diagnostic predictor of cardiac issues.
+* **Age & Performance:** A noticeable decline in `Max Heart Rate` is observed in patients over 50 with heart conditions.
+
+## 💡 Recommendations
+1. Implement mandatory cardiac screening for **Asymptomatic** patients.
+2. Prioritize patients presenting a **Flat ST-Slope** in ECG results.
+3. Use **Stress Tests** as a primary predictive tool for early warning signs.
+## 🔗 Live Interactive Demo
+[View the Dashboard in Full Screen](https://app.powerbi.com/view?r=eyJrIjoiY2QxMjJhNTMtNDliMy00MzJkLWIxYzYtMjMzZTQ3ZjJhM2RhIiwidCI6IjNjMGEyNzljLTdiNjMtNDBjMi1iZDYyLTkyNzRiZTBmMTFlOSIsImMiOjl9)
